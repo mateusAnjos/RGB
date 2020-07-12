@@ -15,5 +15,5 @@ visualização do valor atual de cada input do tipo range.
 </p>
 <p>
 4. À medida em que o usuário modifica o valor dos ranges com as teclas ← e → do
-teclado, a <div> deve refletir a cor correspondente. 
+teclado, a div deve refletir a cor correspondente. 
 </p>
