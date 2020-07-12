@@ -1,0 +1,8 @@
+.medidor {
+  display: flex;
+  flex-direction: row;
+}
+.cor {
+  padding: 1rem;
+  margin-right: 60rem;
+}
